@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_循环链表设计与实现", "01_循环链表设计与实现\01_循环链表设计与实现.vcxproj", "{0F186BD4-DE5A-47F3-BEF0-DC9BCD7981EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F186BD4-DE5A-47F3-BEF0-DC9BCD7981EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F186BD4-DE5A-47F3-BEF0-DC9BCD7981EC}.Debug|Win32.Build.0 = Debug|Win32
+		{0F186BD4-DE5A-47F3-BEF0-DC9BCD7981EC}.Release|Win32.ActiveCfg = Release|Win32
+		{0F186BD4-DE5A-47F3-BEF0-DC9BCD7981EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+1. 实现得到文件大小的函数接口。
+
+
+
+
+2. 自己实现将
+   
+
+struct Student {
+       
+char name[64]
+       
+int id;
+  
+};
+   
+的数组，以二进制的形式存放到文件中，并且可以实现读的接口。
+
+
+
+struct Student {
+char *name;
+int id;
+int name_len;
+};
+的数组，以二进制的形式存放到文件中，并且实现读的接口.
+
+
+3. 实现自己的读写配置文件接口。key=value格式。
+
+

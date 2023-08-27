@@ -21,7 +21,7 @@
   - 文本文件：ASCII文件，每个字节存放一个字符的ASCII码
   - 二进制文件：数据按其在内存中的存储形式原样存放
 
-![](C:\Users\Administrator\Desktop\内存中存储形式.png)
+![](https://gitee.com/C_YouShao/mdpic/raw/master/img/202308271235801-内存中存储形式.png)
 
 ---
 
@@ -46,11 +46,11 @@
   - 缓冲文件系统：高级文件系统，系统自动为正在使用的文件开辟内存缓冲区
   - 非缓冲文件系统：低级文件系统，由用户在程序中为每个文件设定缓冲区
 
-![](D:\Users\Administrator\Desktop\文件处理方法.png)
+![](https://gitee.com/C_YouShao/mdpic/raw/master/img/202308271245335-文件处理方法.png)
 
 - 缓冲文件系统理解：文件句柄
 
-![](D:\Users\Administrator\Desktop\缓冲文件系统理解.png)
+![](https://gitee.com/C_YouShao/mdpic/raw/master/img/202308271247373-缓冲文件系统理解.png)
 
 
 
@@ -58,13 +58,13 @@
 
 ### 2.1文件api的分类
 
-![](D:\Users\Administrator\Desktop\fileApi.png)
+![](https://gitee.com/C_YouShao/mdpic/raw/master/img/202308271249658-fileApi.png)
 
 ### 2.2标准文件的读写
 
-![](D:\Users\Administrator\Desktop\fopen.png)
+![](https://gitee.com/C_YouShao/mdpic/raw/master/img/202308271250758-fopen.png)
 
-![](D:\Users\Administrator\Desktop\fopen1.png)
+![](https://gitee.com/C_YouShao/mdpic/raw/master/img/202308271250780-fopen1.png)
 
 
 
